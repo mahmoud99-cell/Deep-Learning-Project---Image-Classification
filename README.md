@@ -1,4 +1,4 @@
-# Deep-Learning-Project---Image-Classification
+# Deep Learning Project - Image Classification
 # Deep Learning Project README
 
 ## Overview
